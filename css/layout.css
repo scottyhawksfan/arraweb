@@ -1379,7 +1379,7 @@
 	.footer ul.twitter a:before {content: "- ";}
 	.footer ul.twitter span a:before {content: "";}
 	.footer .logo-caption, .footer .logo-caption-overlay {
-		background:url(../images/footer-logo.png) left top no-repeat;
+		background:url() left top no-repeat;
 		width:52px;
 		margin-right:5px;
 		height:72px;
