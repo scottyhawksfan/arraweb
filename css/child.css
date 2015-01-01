@@ -1,0 +1,13 @@
+body .slug-pattern {background-color:#4d4d62;} {background-image: url('images/all_back_lg.png');}
+ul.pricing li.price span {color:#4d4d62;}
+.body .pagination ul.pages li.active a:hover {color:#4d4d62;}
+.body .blog blockquote, blockquote.full {border-left:2px solid #4d4d62;}
+.body .blog.style-4 .border .meta p {background:#4d4d62;}
+.footer.style-2 .foot-nav-bg {background-color:#4d4d62;}
+.footer .foot-nav {background-color:#4d4d62;}
+h1 span, h2 span, h3 span, h4 span, h5 span, h6 span {color:#4d4d62;}
+a, a:visited { color: #4d4d62; }	
+.tabbed-area ul.tabs li a.active {color:#4d4d62;border-top:1px solid #4d4d62;}
+.header .nav .standard ul.tabs li a.active, .header .nav .standard ul.tabs li a:hover {color:#6b6b6b;} 
+.header .logo {background-color:#4d4d62;}
+.footer .logo-caption, .footer .logo-caption-overlay {background-color:#4d4d62;}
