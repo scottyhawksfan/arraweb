@@ -1437,7 +1437,7 @@
 	.footer.style-2 .logo-caption, .footer.style-2 .logo-caption-overlay {
 		background:url(../images/footer-style2-logo.png) no-repeat #217b9d;
 		width:0px;
-		height:77px;
+		height:0px;
 	}
 	.footer.style-2 .logo-caption-overlay {z-index:100;background-position:left bottom;position:absolute;}
 	.footer.style-2 .background {
